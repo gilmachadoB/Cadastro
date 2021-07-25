@@ -1,0 +1,14 @@
+.content {
+  height: 10vh;
+  margin-top: 10%;
+}
+
+.form-control {
+  background-color: paleturquoise;
+}
+.btn {
+  background-color: #dee2ff;
+}
+.mt-2 {
+  margin-top: 20px;
+}
