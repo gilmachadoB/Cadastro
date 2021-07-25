@@ -19,13 +19,11 @@ function App() {
   return (
     <div>
       <nav class="navbar navbar-light bg-light">
-        <a class="navbar-brand " href="#">
-          Área de Cadastro
-        </a>
+        <a class="navbar-brand ">Área de Cadastro</a>
       </nav>
       <div className="container">
         <div className="row content">
-          <div class="col-sm b">
+          <div class="col-sm ">
             <button
               type="button"
               onClick={() => toggleCli()}
